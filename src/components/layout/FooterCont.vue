@@ -150,12 +150,12 @@
       width: 25%;
       h4 {
         font-size: 18px;
-        color: #000;
+        color: #fff;
         margin-bottom: 20px;
       }
       a {
         font-size: 14px;
-        color: #808080;
+        color: #fff;
         line-height: 1.8;
       }
     }
@@ -164,9 +164,9 @@
     width: 100%;
     padding: 30px;
     text-align: center;
-    border-top: 1px solid #e5e5e5;
+    border-top: 1px solid #fff;
     margin-top: 50px;
-    color: #808080;
+    color: #fff;
     font-size: 14px;
   }
 }

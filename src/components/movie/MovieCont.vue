@@ -33,18 +33,26 @@ export default {
 
 <style lang="scss">
 .movie__cont {
+  h2 {
+    color: #000;
+  }
   ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    color: #000;
     li {
       width: 24%;
       position: relative;
       margin-bottom: 2%;
+      color: #000;
+
       .title {
         display: inline-block;
         font-size: 20px;
         padding: 3px;
+        color: #000;
+
         &:hover {
           text-decoration: underline;
           text-underline-position: under;
@@ -56,11 +64,11 @@ export default {
         top: 20px;
         width: 30px;
         height: 30px;
-        background-color: #000;
+        background-color: #fff;
         text-align: center;
         line-height: 30px;
         border-radius: 50%;
-        color: #fff;
+        color: #000;
         font-size: 12px;
       }
     }

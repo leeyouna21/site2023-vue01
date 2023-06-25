@@ -96,7 +96,7 @@ export default {
         display: inline-block;
         padding: 15px;
         margin: 0 20px;
-        background-color: #daba91;
+        background-color: #ffe1e1;
         border-radius: 30px;
         margin-bottom: 20px;
         a {
@@ -105,7 +105,7 @@ export default {
           color: #fff;
         }
         &:hover {
-          background-color: #cea46d;
+          background-color: #ffcaca;
         }
       }
     }
@@ -140,7 +140,7 @@ export default {
 
         p {
           font-size: 16px;
-          color: #7a7a7a;
+          color: #fff;
           margin-bottom: 10px;
         }
       }

@@ -32,6 +32,7 @@
     text-transform: uppercase;
     padding: 5%;
     font-weight: 900;
+    color: #000;
   }
 }
 
@@ -42,25 +43,25 @@
 }
 
 .bg-ivory {
-  background-color: #dfd3c3;
+  background-color: #ff8b8b;
 }
 .bg-white {
-  background-color: #ffeed8;
+  background-color: #ffc3c3;
 }
 .bg-white02 {
-  background-color: #fff4e6;
+  background-color: #ffd8d8;
 }
 //button
 .button-1 {
-  @include button(#ac927c, #fff);
+  @include button(#ff8b8b, #fff);
 }
 
 .button-2 {
-  @include button(#967b67, #fff);
+  @include button(#f1b9b9, #fff);
 }
 
 .button-3 {
-  @include button(#d2a37c, #fff);
+  @include button(#f9f7e8, #000);
 }
 
 //contentTitle
@@ -72,6 +73,7 @@
   padding: 5%;
   margin-top: 100px;
   margin-bottom: 50px;
+  color: #000;
 }
 
 //블라인드 효과

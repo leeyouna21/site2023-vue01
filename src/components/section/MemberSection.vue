@@ -52,7 +52,7 @@
     .member__body {
       margin-top: -30px;
       padding: 15px 10px;
-      background-color: #f4f0ea;
+      background-color: #ffc3c3;
       color: #fff;
       z-index: 100;
       position: relative;

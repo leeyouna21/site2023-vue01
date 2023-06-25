@@ -27,7 +27,7 @@ export default {
   },
   data: function () {
     return {
-      title: "I liked this book 📚🤎",
+      title: "I liked this book 📚💗",
       desc: "제가 제일 재밌게 읽은 네 권을 소개해 드릴게요 !",
       texts: [
         {
@@ -63,7 +63,7 @@ export default {
   width: 33%;
 
   span {
-    background-color: #aa9f90;
+    background-color: #ffc3c3;
     font-size: 14px;
     padding: 4px 30px 2px;
     color: #fff;

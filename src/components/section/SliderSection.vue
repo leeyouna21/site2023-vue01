@@ -106,14 +106,14 @@ export default {
   bottom: -80px !important;
 }
 .slider__wrap {
-  background-color: #f4f0ea;
+  background-color: #ffe1e1;
 }
 .slider__inner {
   position: relative;
   overflow: hidden;
   padding: 100px 0;
   .slider__img {
-    background-color: #f4f0ea;
+    background-color: #ffe1e1;
     .slider {
       .text {
         h3 {
@@ -240,13 +240,13 @@ export default {
       height: 12px;
       border-radius: 50%;
       margin: 0 5px;
-      border: 2px solid #ac927c;
-      background-color: #ac927c;
+      border: 2px solid #ffc7c7;
+      background-color: #ffc7c7;
       box-shadow: 0 0 0 3px transparent;
       &.active {
-        box-shadow: 0 0 0 3px #ac927c;
+        box-shadow: 0 0 0 3px #ffc7c7;
         border-width: 4px;
-        background-color: #fff;
+        background-color: #000;
       }
     }
   }

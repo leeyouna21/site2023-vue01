@@ -25,11 +25,16 @@ export default {
 
 <style lang="scss">
 .unsplash__cont {
+  color: #000;
+
   ul {
     column-count: 4;
     column-gap: 20px;
+    color: #000;
+
     li {
       margin-bottom: 20px;
+      color: #000;
     }
   }
 }
