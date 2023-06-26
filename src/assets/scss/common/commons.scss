@@ -54,14 +54,17 @@
 //button
 .button-1 {
   @include button(#ff8b8b, #fff);
+  border-radius: 30px;
 }
 
 .button-2 {
   @include button(#f1b9b9, #fff);
+  border-radius: 30px;
 }
 
 .button-3 {
   @include button(#f9f7e8, #000);
+  border-radius: 30px;
 }
 
 //contentTitle

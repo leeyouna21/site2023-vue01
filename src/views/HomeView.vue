@@ -3,7 +3,7 @@
     <SliderSection attr="slider__wrap section " />
     <IntroSection attr="intro__wrap section bg-white" />
     <PortSection attr="port__wrap section center bg-ivory" />
-    <YoutubeSection attr="youtube__wrap SBAggro3  section  bg-white02" />
+    <YoutubeSection attr="youtube__wrap SBAggro3 section bg-white02" />
     <UnsplashSection attr="unsplash__wrap SBAggro3 section bg-white" />
     <MovieSection attr="movies__wrap SBAggro3 section bg-white02" />
   </main>

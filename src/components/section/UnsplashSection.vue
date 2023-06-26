@@ -80,6 +80,7 @@ export default {
   }
   button {
     @include button(#ad8869, #fff);
+    border-radius: 20px;
   }
 }
 .unsplash__tag {
